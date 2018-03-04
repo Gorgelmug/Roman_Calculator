@@ -1,0 +1,9 @@
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\bin\Debug\Roman Calculator.exe.config
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\bin\Debug\Roman Calculator.exe
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\bin\Debug\Roman Calculator.pdb
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\obj\Debug\Roman Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\obj\Debug\Roman_Calculator.Form1.resources
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\obj\Debug\Roman_Calculator.Properties.Resources.resources
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\obj\Debug\Roman Calculator.csproj.GenerateResource.Cache
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\obj\Debug\Roman Calculator.exe
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Roman Calculator\Roman Calculator\Roman Calculator\obj\Debug\Roman Calculator.pdb
